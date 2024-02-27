@@ -1,5 +1,5 @@
 # Github flavoured Markdown
-- ## External Link
+- ## [External Link]
 - ## Internal Link
 - ## Images
 - ## Emojis
