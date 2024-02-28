@@ -17,9 +17,10 @@ here you can find the
 
 ## Emojis
 
-:love:
+:sleeping:
 :smile:
 :laughing:
+:sparkling_heart:
 
 
 ## Table
