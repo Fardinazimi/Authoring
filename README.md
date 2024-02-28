@@ -1,4 +1,4 @@
-# Github flavoured Markdown
+# Authoring
 - ## External Link
 - ## Internal Link
 - ## Images
