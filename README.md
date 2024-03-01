@@ -14,7 +14,7 @@
 [Go to  end section](#tables)
 
 # Images
-![Peackock feather](./images/IMG_0473.JPG)
+![Peackock feather](images.jpeg)
 
 
 
